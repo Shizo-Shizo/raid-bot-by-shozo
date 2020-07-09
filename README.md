@@ -40,11 +40,11 @@ https://vk.com/kommemmur?z=photo-196879061_457239018%2Falbum-196879061_0%2Frev
 ### Если скачан ZIP
 * 1 - Разархивируем сам ZIP архив
 * 2 - Заходим через консоль где сам репозиторий и пишим команду `npm update`
-* 3 - Ну и [Как получить TOKEN для пользователя]:https://github.com/Shizo-Shizo/raid-bot-by-shozo/#%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-token-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F конечно же
+* 3 - Ну и [Как получить TOKEN для пользователя](https://github.com/Shizo-Shizo/raid-bot-by-shozo/#%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-token-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F) конечно же
 * 4 - Запускаем start.bat, и всё работает
 ### Если скопирован репозиторий
 * 1 - Заходим через консоль где скопирован сам репозиторий и пишим команду `npm update`
-* 2 - Ну и [Как получить TOKEN для пользователя]:https://github.com/Shizo-Shizo/raid-bot-by-shozo/#%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-token-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F конечно же
+* 2 - Ну и [Как получить TOKEN для пользователя](https://github.com/Shizo-Shizo/raid-bot-by-shozo/#%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-token-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F) конечно же
 * 3 - Запускаем start.bat, и всё работает
 
 Как видим ZIP и Скопированный репо довольно таки похожи
